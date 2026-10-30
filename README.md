@@ -4340,6 +4340,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Crypto Link Check](https://github.com/devx-agent/crypto-link-check) `https://crypto-link-check.nextill-pos.workers.dev/mcp`
   [![Crypto Link Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/crypto-link-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/crypto-link-check)
   🔓 - Check a URL before connecting a wallet: lookalike, typosquat and punycode domains of ~60 crypto wallets, exchanges and dapps.
+- [Repo Run Check](https://github.com/devx-agent/repo-run-check) `https://repo-run-check.nextill-pos.workers.dev/mcp`
+  [![Repo Run Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/repo-run-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/repo-run-check)
+  🔓 - Check whether a GitHub repo or shell command is safe for an AI coding agent to run: install one-liners, obfuscated payloads, malware domains, prompt injection.
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
