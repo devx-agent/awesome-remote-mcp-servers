@@ -4301,6 +4301,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [7702 Sweeper Check](https://github.com/devx-agent/7702-sweeper-check) `https://sweeper-check.nextill-pos.workers.dev/mcp`
+  [![7702 Sweeper Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/7702-sweeper-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/7702-sweeper-check)
+  🔓 - Check an EVM address for EIP-7702 delegations (wallet sweepers) on 8 chains. Read-only, free.
 - [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
   [![attest MCP connector](https://glama.ai/mcp/connectors/io.github.mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrpkk/attest)
   🔓 - Verifies AI agent artifacts against JSON Schema and catches positional prompt injection.
@@ -4334,6 +4337,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CrawlCheck](https://crawlcheck.io/for-agents) `https://crawlcheck.io/mcp`
   [![CrawlCheck MCP connector](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.emmanuelorta/crawlcheck)
   🔓 - A signed answer about any site before an agent acts: policy, what crawlers were served, findings, a decision per action.
+- [Crypto Link Check](https://github.com/devx-agent/crypto-link-check) `https://crypto-link-check.nextill-pos.workers.dev/mcp`
+  [![Crypto Link Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/crypto-link-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/crypto-link-check)
+  🔓 - Check a URL before connecting a wallet: lookalike, typosquat and punycode domains of ~60 crypto wallets, exchanges and dapps.
 - [crosscheck](https://crosscheckapi.com/llms.txt) `https://crosscheckapi.com/mcp`
   [![crosscheck MCP connector](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.crosscheckapi/crosscheck)
   🔓 - Security review of skills and MCP servers before install; paid per call via x402.
