@@ -4304,6 +4304,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [7702 Sweeper Check](https://github.com/devx-agent/7702-sweeper-check) `https://sweeper-check.nextill-pos.workers.dev/mcp`
   [![7702 Sweeper Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/7702-sweeper-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/7702-sweeper-check)
   🔓 - Check an EVM address for EIP-7702 delegations (wallet sweepers) on 8 chains. Read-only, free.
+- [Address Poisoning Check](https://github.com/devx-agent/address-poisoning-check) `https://address-poisoning-check.nextill-pos.workers.dev/mcp`
+  [![Address Poisoning Check MCP connector](https://glama.ai/mcp/connectors/io.github.devx-agent/address-poisoning-check/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.devx-agent/address-poisoning-check)
+  🔓 - Before sending crypto, check whether the recipient is a lookalike of an address you trust (address poisoning) and has a valid EIP-55 checksum.
 - [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
   [![attest MCP connector](https://glama.ai/mcp/connectors/io.github.mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mrpkk/attest)
   🔓 - Verifies AI agent artifacts against JSON Schema and catches positional prompt injection.
